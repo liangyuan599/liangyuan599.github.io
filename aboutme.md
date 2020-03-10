@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Yuan and I am a second year student at Yale University studying in Mathematics and Computer Science. I have interests in algorithm design, finance, macroeconomic theory, machine learning, Southeast Asian politics and CS:GO. I'm interested in working on projects in data science, software engineering and quantitative research. Feel free to contact me at liangyuan599@gmail.com
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Personal background
 
-What else do you need?
+I grew up in the beautiful city of Kuala Lumpur. After spending 16 years in Malaysia, I completed high school at Sevenoaks School in England, before moving to New Haven, Connecticut for university. 
 
-### my history
+### My coursework
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My interests lie in the intersection of computer science, mathematics, economics and statistics. Here is a selection of my courseload.
+* Data Structures & Algorithms (Intensive)
+* Probability Theory & Theory of Statistics
+* Data Analysis 
+* Linear Algebra & Multivariable Calculus
+* Corporate Finance
