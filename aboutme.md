@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: false
-image: img/me.jpg
+image: "img/me.jpg"
 ---
 
 Hi! My name is Yuan and I am a second year student at Yale University studying in Mathematics and Computer Science. I have interests in algorithm design, finance, macroeconomic theory, machine learning, Southeast Asian politics and CS:GO. I'm interested in working on projects in data science, software engineering and quantitative research. Feel free to contact me at liangyuan599@gmail.com
