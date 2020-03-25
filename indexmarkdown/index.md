@@ -1,7 +1,3 @@
----
-layout: page
----
-
 <hr />
 
 <p>layout: page</p>
