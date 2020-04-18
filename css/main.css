@@ -46,6 +46,13 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+.avatar {
+  display: block;
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 
 .main-content {
   padding-top: 80px;
@@ -334,13 +341,6 @@ footer .theme-by {
   color: {{ site.hover-col }};
 }
 
-.avatar {
-  display: block;
-  vertical-align: middle;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-}
 
 .post-preview .post-title {
   font-size: 30px;
