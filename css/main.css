@@ -47,7 +47,9 @@ hr.small {
   border-radius: 3px;
 }
 .avatar {
-  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 200px;
   height: 200px;
   border-radius: 50%;
