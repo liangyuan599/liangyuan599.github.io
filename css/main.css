@@ -334,10 +334,10 @@ footer .theme-by {
   color: {{ site.hover-col }};
 }
 
-.avatar {
+.avatar_front {
   vertical-align: middle;
-  width: 800px;
-  height: 800px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
 }
 
