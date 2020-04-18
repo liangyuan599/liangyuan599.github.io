@@ -334,7 +334,7 @@ footer .theme-by {
   color: {{ site.hover-col }};
 }
 
-.avatar{
+.avatar {
   display: block;
   vertical-align: middle;
   width: 200px;
